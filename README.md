@@ -258,15 +258,15 @@ Using GitHub for version control can significantly enhance collaboration and pro
       - Pitfall: Users may forget to create branches for new features or fixes, leading to chaotic main branches and difficulty tracking changes.
       - Strategy: Encourage the habit of creating branches for each new feature or fix. Use naming conventions for branches to keep things organized (e.g., feature/add-login, bugfix/fix-navbar).
 ### Best Practices
-**1. Regularly Pull Changes:**
+1. **Regularly Pull Changes:**
       - Encourage team members to frequently pull changes from the main branch to their local branches to stay updated and minimize conflicts.
-**2. Code Reviews and Pull Requests:**
+2. **Code Reviews and Pull Requests:**
       - Implement a culture of code reviews through pull requests. This allows for feedback, knowledge sharing, and ensuring code quality before merging into the main branch.
-**3. Use Tags and Releases:**
+3. **Use Tags and Releases:**
       - Tag important milestones in the project using Git tags. This makes it easier to reference specific versions of the codebase and facilitates release management.
-**4. Documentation:**
+4. **Documentation:**
       - Maintain good documentation within the repository, including a README file, contributing guidelines, and coding standards. This helps onboard new contributors and keeps everyone on the same page.
- **5. Collaborative Tools:**
+5. **Collaborative Tools:**
       - Utilize GitHub’s collaborative features, such as discussions, projects, and actions, to enhance communication and streamline workflows.
-**6. Backup and Recovery:**
+6. **Backup and Recovery:**
       - Encourage regular backups of local repositories and familiarize the team with recovery strategies, like using git reflog to recover lost commits.
