@@ -186,11 +186,11 @@ Pull requests (PRs) are a core feature of the GitHub workflow, playing a crucial
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 Forking a repository on GitHub is a process that allows a user to create a personal copy of another user's repository under their own GitHub account. This is particularly useful for contributing to open-source projects or for experimenting with changes without affecting the original codebase.
 ### Forking vs. Cloning
-**_Forking:_**
+1. **_Forking:_**
       - Creates a copy of the entire repository on your GitHub account.
       - Maintains a link to the original repository, making it easy to submit changes back through pull requests.
       - Useful for contributing to projects you don’t have direct access to.
-**_Cloning:_**
+2. **_Cloning:_**
       - Downloads a local copy of a repository to your computer.
       - It can be done for both forked repositories and original repositories.
       - Cloning allows you to work on the code locally, but it doesn’t create a separate version on GitHub unless you push changes to a remote repository you own.
